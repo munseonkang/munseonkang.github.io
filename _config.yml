@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "강문선(Munseon Kang)"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "라면 먹고 싶어요."
-  location         : "경기도 안양시(Anyang-si, Gyeonggi-do"
-  email            : "kangmoonsun95@gmail.com"
+  bio              : "라면 먹고 싶어"
+  location         : "경기도 안양시\n(Anyang-si, Gyeonggi-do)"
+  email            : # "kangmoonsun95@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kangmoonsun95@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
